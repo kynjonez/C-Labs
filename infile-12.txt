@@ -1,0 +1,4 @@
+Mary Smith 10  5  8  10  6  2  10
+Ken Lewis 5  3  2  10  8  9  10
+Kyndall Jones 10 10 9 8 10 9 8
+Jaiden Hurt 7 9 7 10 9 8 6 
